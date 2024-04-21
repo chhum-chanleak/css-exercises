@@ -9,3 +9,6 @@
 }
 
 /* unique styles No, Click Me! */
+.btn.no-click-me {
+  background-color: #f3f66f;
+}
