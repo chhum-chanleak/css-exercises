@@ -14,6 +14,27 @@ body {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
+  gap: 32px;
+}
+
+.container .plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.plant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 0 1 200px;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 img {
