@@ -37,6 +37,13 @@ body {
   text-decoration: none;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 
 img {
   width: 600px;
@@ -47,6 +54,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  font-size: 1rem;
+  padding: 0.5rem;
 }
 
 input {
