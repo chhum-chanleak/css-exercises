@@ -22,6 +22,22 @@ body {
   justify-content: space-between;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.header a {
+  text-decoration: none;
+}
+
+
 img {
   width: 600px;
 }
@@ -40,3 +56,4 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
