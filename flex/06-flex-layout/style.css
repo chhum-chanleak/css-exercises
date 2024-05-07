@@ -25,6 +25,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 1rem;
 }
 
 .header ul {
@@ -50,6 +51,7 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #f3eded;
+  padding: 1rem;
 }
 
 
